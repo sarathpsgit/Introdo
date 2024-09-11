@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Mona Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Mona Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.benefits-section h2 {
+  color: #361863 !important;
+  font-family: Archivo;
+  font-size: 45.83px;
+  font-weight: 700 !important;
+  line-height: 58.6px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  margin: 12px 0;
+}
+
+.benefits-section .lead {
+  color: #FC1777;
+  font-family: Mona Sans;
+  font-size: 12.8px;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+  border: solid 1px;
+  border-radius: 50px;
+  width: 186px;
+  padding: 16px 12px;
+}
+
+@media (min-width: 1400px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1220px;
+  }
+}

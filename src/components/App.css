@@ -1,0 +1,12 @@
+/* src/App.css */
+body {
+  font-family: 'Mona Sans', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding-top: 60px;
+}

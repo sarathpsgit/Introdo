@@ -1,0 +1,152 @@
+.perk-box-1 {
+    background: linear-gradient(162.04deg, #FFAE5C 2.79%, #FD4190 80.66%);
+    height: auto;
+    border-radius: 20px;
+    padding: 40px;
+    color: white;
+    text-align: start;
+    margin: 12px 0;
+}
+.perk-box-1 img{
+    padding: 32px 0 0 0;
+}
+.perk-box-2 {
+    background: linear-gradient(190.07deg, #FD4190 -12.2%, #A8C5FF 63%);
+    height: auto;
+    border-radius: 20px;
+    padding: 40px 30px 0 30px;
+    color: white;
+    margin: 12px 0;
+}
+
+.perk-box-2a {
+    background: linear-gradient(156.77deg, #FEBED9 -37.31%, #C8DDFF 52.67%);
+    height: auto;
+    border-radius: 20px;
+    padding: 56px 16px;
+    color: #241042;
+    margin: 12px 0;
+}
+
+.perk-box-3 {
+    background: linear-gradient(340.7deg, #5E9CFF 33.95%, #69489A 114.7%);
+    height: auto;
+    border-radius: 20px;
+    padding: 0px 0px 0 0px;
+    color: white;
+}
+.perk-box-3 .compliancehead {
+    padding: 30px 40px 0 40px;
+}
+.perk-box-3  p{
+    padding: 0px 40px;
+}
+.perk-box-3 img {
+    border-bottom-left-radius: 20px;
+}
+
+.perk-box-4 {
+    background: linear-gradient(105.4deg, #FD6BA8 2.24%, #5E9CFF 96.35%);
+    height: auto;
+    border-radius: 20px;
+    padding: 24px 0px 14px 36px;
+    color: white;
+    text-align: start;
+    margin: 12px 0;
+}
+
+.perk-box-5 {
+    background: linear-gradient(136.55deg, #8A70B0 8.08%, #482084 117.63%);
+    height: auto;
+    border-radius: 20px;
+    padding: 24px 36px 0px 0px;
+    color: white;
+    margin: 12px 0;
+}
+
+.perk-box-5 img {
+    border-bottom-left-radius: 20px;
+}
+
+.white-head {
+    font-family: Archivo;
+    font-size: 31.25px;
+    font-weight: 600;
+    line-height: 36.87px;
+    text-align: left;
+}
+
+p {
+    font-family: Mona Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.timerbody {
+    background: white;
+    color: black;
+    padding: 12px;
+    border-radius: 30px;
+    height: 100%;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.person-name {
+    font-family: Archivo;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+}
+
+.date {
+    font-family: Mona Sans;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 14.34px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.person-data {
+    padding: 14px 10px;
+}
+
+.smart-insight {
+    font-family: Archivo;
+    font-size: 31.25px;
+    font-weight: 600;
+    line-height: 36.87px;
+    text-align: center;
+}
+
+.perk-box-2a p {
+    font-family: Mona Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.compliancehead {
+    font-family: Archivo;
+    font-size: 31.25px;
+    font-weight: 600;
+    line-height: 36.87px;
+    text-align: left;
+}
+
+.perk-box-4 p {
+    font-family: Mona Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}

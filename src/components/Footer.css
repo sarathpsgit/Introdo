@@ -1,0 +1,131 @@
+/* src/components/Footer.css */
+
+.footer {
+    color: white;
+    padding: 5rem 0;
+    background: linear-gradient(140.35deg, #170C34 14.46%, #482084 58.66%, #3A86FF 117.61%);
+}
+
+ol,
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.footer-logo {
+    max-width: 150px;
+}
+
+.footer a {
+    font-family: Mona Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-decoration: none;
+    color: #C7C5CE;
+}
+
+.searchbar-container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.searchbar {
+    width: 100%;
+    padding: 10px 60px 10px 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    outline: none;
+}
+
+.search-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 30px 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.arrow {
+    font-size: 20px;
+    line-height: 1;
+}
+
+.hr-update {
+    font-family: Archivo;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: start;
+}
+
+.social-media-icons a {
+    margin: 0 0.5rem;
+}
+
+.social-media-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+.language-switcher {
+    margin-top: 0.5rem;
+}
+
+.perks-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.perk-box {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-store-icon {
+    width: 120px;
+    margin: 0.5rem;
+}
+
+.partners img {
+    max-width: 100px;
+    margin: 0 0.5rem;
+}
+
+.footer-links a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #C7C5CE;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 0.5rem;
+    color: #C7C5CE;
+}
